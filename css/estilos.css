@@ -1,5 +1,19 @@
 body{
     text-align: center;
     font-family: Arial;
-    color: blue;
+    color: #333;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+.contendor{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+
+.contendor h1 {
+    text-align: 20px;
 }
