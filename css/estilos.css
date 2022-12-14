@@ -6,7 +6,21 @@ body{
     margin: 0;
     padding: 0;
 }
-.contendor{
+
+.cabecera{
+    background:#33a;
+    box-shadow: 10px -6px 29px -9px rgba(0,0,0,0.43);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+.cabecera.tagline{
+    padding: 0 , 0, 0, 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+.contenedor{
     width: 70%;
     padding: 1em;
     text-align: left;
