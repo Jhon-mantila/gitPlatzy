@@ -5,4 +5,4 @@ y tengo 35 años y soy de colombia.
 Usando vin para editar el txt.
 mañana nos enfocamos mas en git
 Agregando un colaborador al repositorio.
-
+jhon esta haciendo un fork probando soy un contribuyente
