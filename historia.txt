@@ -6,3 +6,4 @@ Usando vin para editar el txt.
 mañana nos enfocamos mas en git
 Agregando un colaborador al repositorio.
 jhon esta haciendo un fork probando soy un contribuyente
+agregando una línea para usar el rebase
