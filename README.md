@@ -11,4 +11,5 @@ Agregando una imagen al readme
 
 # Un Ejemplo de un post en blogpost
 ------------
-&#64; jhon.e.mantilla@gmai.com  &copy; 2022 https://joedmaru.3ztech.com.co/gitPlatzy/blogpost.html
+* Creado por Jhon Mantilla
+&#64; jhon.e.mantilla@gmai.com  &copy; 2022 https://joedmaru.3ztech.com.co/gitPlatzy/blogpost.html  
